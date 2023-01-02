@@ -30,6 +30,7 @@ body {
 }
 
 .box {
+    margin-top: 2%;
     width: 400px;
     height: 550px;
     color: #fff;
